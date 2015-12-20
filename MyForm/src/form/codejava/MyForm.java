@@ -45,7 +45,6 @@ public class MyForm extends HttpServlet {
 		out.println("Name:"+name+"<br>");
 		out.println("E-Mail:"+mail+"<br>");
 		out.println("Birthday:"+birday+"<br>");
-		out.println("Address:"+address+"<br>");
 		out.println("</html>");
 		
 	}
